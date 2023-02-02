@@ -1,4 +1,4 @@
-#User Stories
+# User Stories
 
 1. Bob is a graduate student who wants to create translation biotechnology, specifically cancer diagnostic tools. Bob wants to adapt this software to cluster immune cells in multiplexed immunofluorescent images instead of H&E-stained images. Bob is technically advanced, and he is looking for detailed software. 
 
