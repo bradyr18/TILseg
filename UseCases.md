@@ -1,5 +1,4 @@
-Use case for Bob: implement a similar sort of system for a different type of image
-
+Use case for Bob: implement a similar sort of system for a different type of image  
 User Input:
 
 User Receives: pipeline for clustering on a different type of digitized image (multiplexed immunofluorescent)
